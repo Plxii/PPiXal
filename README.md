@@ -10,12 +10,14 @@ I'm a passionate developer with a love for coding and exploring new technologies
 
 ## Programming language Tool
  - JavaScript
+   - Node.js
+   - TypeScript
  - Python
  - C/C++
  - C#
  - HTML
- - PHP
- - CSS
+   - PHP
+   - CSS
  - Docker
 
 ## How to Reach Me
