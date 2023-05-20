@@ -10,8 +10,8 @@ I'm a passionate developer with a love for coding and exploring new technologies
 
 ## Programming language Tool
  - JavaScript
-   - Node.js
    - TypeScript
+   - Node.js
  - Python
  - C/C++
  - C#
@@ -19,6 +19,7 @@ I'm a passionate developer with a love for coding and exploring new technologies
    - PHP
    - CSS
  - Docker
+ - SQL
 
 ## How to Reach Me
 You can get in touch with me through the following channels:
